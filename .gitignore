@@ -1,0 +1,26 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE configs
+.vscode/
+
+# Large files and datasets
+*.csv
+*.xlsx
+*.zip
+data/
+
+# Machine learning model weights
+*.pt
+*.pth
+*.pkl
+runs/

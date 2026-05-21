@@ -1,0 +1,8 @@
+path: ./          # Current working directory where train.txt, val.txt, test.txt sit
+train: train.txt  # Path to the training split text file
+val: val.txt      # Path to the validation split text file
+test: test.txt    # Path to the test split text file
+
+# Class mappings found during your distribution check
+names:
+  0: cat
